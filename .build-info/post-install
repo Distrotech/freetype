@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ln -s -r ${3}/usr/include/freetype2 ${3}/usr/include/freetype
